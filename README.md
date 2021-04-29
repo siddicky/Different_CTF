@@ -263,7 +263,7 @@ python -c 'import pty;pty.spawn("/bin/bash")'
 Web flag
 
 ```
-cd hmtl
+cd html
 www-data@ubuntu:/var/www/html$ cat wwe3bbfla4g.txt
 ```
 ## Task 2b 
@@ -399,7 +399,7 @@ Copy the following line
 00000020  FE E9 9D 3D  79 18 5F FC  ** ** ** **  ** ** ** ** 
 ```
 
-#### Use icberchef
+#### Use icyberchef
 
 Link: http://icyberchef.com/
 
